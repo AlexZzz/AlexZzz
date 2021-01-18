@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been working with Ceph distributed storage and cloud infrastructure.
+I've been working with Ceph distributed storage and cloud infrastructure for a long time.
 
 Experienced in monitoring, debugging, problem solving and root cause analysis.
 
